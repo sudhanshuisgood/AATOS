@@ -7,6 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "start": "node server.js",
+    "chat": "node cli.js",
+    "cli": "node cli.js",
     "lint": "eslint .",
     "preview": "vite preview"
   },
